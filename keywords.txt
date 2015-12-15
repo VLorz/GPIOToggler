@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For GPIOToggler
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GPIOToggler	KEYWORD1
+GPIOToggle_mode_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+blinking	KEYWORD2
+setCycleLen KEYWORD2
+setDutyCycle KEYWORD2
+update	KEYWORD2
+state	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TOGGLEMODE_MANUAL	LITERAL1
+TOGGLEMODE_BLINKING	LITERAL1
