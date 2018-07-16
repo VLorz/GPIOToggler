@@ -17,8 +17,8 @@ on	KEYWORD2
 off	KEYWORD2
 blink	KEYWORD2
 blinking	KEYWORD2
-setCycleLen KEYWORD2
-setDutyCycle KEYWORD2
+setCycleLen	KEYWORD2
+setDutyCycle	KEYWORD2
 update	KEYWORD2
 state	KEYWORD2
 
